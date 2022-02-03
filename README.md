@@ -39,7 +39,7 @@
 <details><Summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Rippo123/AutoFilterBot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
