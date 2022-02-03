@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/DalinMathew",
-    "repository": "https://github.com/DalinMathew/AutoFilterBot",
+    "repository": "https://github.com/Rippo123/AutoFilterBot",
     "success_url": "https://t.me/jointhisdiscussion",
     "env": {
         "APP_ID": {
